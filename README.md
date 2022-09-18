@@ -34,7 +34,7 @@
 
 # Contact Us
 
-> Our Email: hello@genztechies.com
+> Our Email: hello@sosarena.com
 
 <br />
 
