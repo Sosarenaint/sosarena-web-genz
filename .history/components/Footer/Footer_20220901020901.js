@@ -20,7 +20,7 @@ function Footer({ overlayBg }) {
           <div className="flex py-20 relative bg-[#3331C4] rounded-3xl">
             <div className="text-center relative z-10 mx-auto max-w-2xl lg:max-w-5xl">
               <h2 className="text-xl md:text-2xl lg:text-5xl text-center text-white mb-2">
-                Are you a professional techie looking to connect with other techies in U.A.E?
+                Are you a teen techie looking to meet other techies in Nigeria?
               </h2>
               {/* <p className="my-5">Join Us In Our Community</p> */}
               <a
@@ -87,7 +87,7 @@ function Footer({ overlayBg }) {
       <hr className="container mx-auto text-gray-600 hidden lg:block" />
       <div className="container mx-auto px-5 lg:py-10 pb-5 flex flex-wrap flex-col lg:flex-row">
         <p className="text-sm text-left hidden lg:block">
-          Copyright &copy; {new Date().getFullYear()} Sosarena Int'l. All rights
+          Copyright &copy; {new Date().getFullYear()} GenzTechies. All rights
           reserved
         </p>
 
