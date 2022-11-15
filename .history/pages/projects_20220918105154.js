@@ -68,9 +68,10 @@ function Projects() {
           />
           {/* Separate Each Project language with a dash or hyphen asin (-) */}
           <ProjectInfo
-            projectName="Women Above Rubies"
-            projectDesc="A website that brings Women Above Rubies (W.A.R) is an International women’s 
-            organization with the vision to impact women for self-awareness and making a lasting impact.."
+            projectName="GenZtechies"
+            projectDesc="A website that brings together GenZ developers and innovators from
+          around Africa to exchange networking opportunities and get to know
+          one another."
             projectLanguage="NextJS-TailwindCSS"
             projectLink="https://genztechies.com"
           />
