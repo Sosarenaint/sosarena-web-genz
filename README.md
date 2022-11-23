@@ -1,11 +1,3 @@
-# GenZtechies
-
-> GenZTechie (GZT)
-
-# Website
-
-> Check us out at: https://genztechies.com/
-
 # General Information
 
 > GenZTechies was created by teenagers who have a strong passion for technology. We strive
