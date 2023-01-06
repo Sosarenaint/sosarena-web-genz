@@ -29,7 +29,6 @@
 > Our Email: hello@sosarena.com
 
 <br />
-
-<a target="_blank" href="https://www.vercel.com?utm_source=genztechies&utm_campaign=oss">
-  <img src="./public/powered-by-vercel.svg" alt="Powered by vercel">
+<a target="_blank" href="https://sosamson.com">
+  <img src="https://sosamson.com/static/media/me.46fe38dcac1824f4760e.png" alt="Powered by vercel">
 </a>
